@@ -1,19 +1,11 @@
-h1{
-  font-weight: 700;
-  font-size: 40px;
-  margin: 10px;
-  margin-bottom: 25px;
-}
-input{
+input {
   width: 100%;
 }
-.items{
-  text-align: left;
-}
-.Pr-Button{
+
+.kg-button {
   min-width: 80px;
-  border: 1px solid black;
 }
-.Pr-row{
+
+.kg-row {
   margin: 10px 5px;
 }
